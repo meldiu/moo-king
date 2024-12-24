@@ -1,6 +1,6 @@
 ![Banner](/public/readme/banner.png)
 
-## 💪🏻 **Contribución**
+## **Contribución**
 
 ¡Eres bienvenido a contribuir en Moo-king! Si quieres contribuir, sigue estos pasos:
 
@@ -11,10 +11,10 @@
 5. Envía un pull request con los cambios realizados.
 6. Espera a que revisemos y le hagamos merge a tu pull request.
 
-## ⚖️ **Licencia**
+## **Licencia**
 
 Moo-king está bajo la [Licencia MIT](LICENSE).
 
-## 😺 **Feedback**
+## **Feedback**
 
 Si tiene algún comentario, sugerencia o problema, [abra un issue](https://github.com/meldiu/moo-king/issues). Agradecemos sus comentarios.
